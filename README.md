@@ -1,8 +1,8 @@
 # Getting started with python 3 - A minimalistic guide
 
 # Hello World
-hello_world.py
 First python program
+#### **`hello_world.py`**
 
 # Basic Data Types
 basic_data_types.py
