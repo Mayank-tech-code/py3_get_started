@@ -5,38 +5,38 @@ First python program
 #### **`hello_world.py`**
 
 # Basic Data Types
-basic_data_types.py
 Demonstrates string, int and decimal data
+#### **`basic_data_types.py`**
 
 # Control Statement
-control_statement.py
 Shows how a decision is made
+#### **`control_statement.py`**
 
 # Loops
-while_loop.py
 Shows why loop (Used when the number of steps is not known in advance)
+#### **`while_loop.py`**
 
-for_loop.py
 Shows for loop (Used when the number of steps is known in advance)
+#### **`for_loop.py`**
 
 # Lists
-lists.py
 Demonstrates the list collection (e.g. used to represent say a collection of players in a cricket team)
+#### **`lists.py`**
 
 # Dictionary
-dictionary.py
 Demonstrates the dictionary collection (e.g. think about a shopping mall that gives a token and keeps your bag)
+#### **`dictionary.py`**
 
 # Function
-functions.py
 Demonstrates functions in python (e.g. think about different services like college, hospital, bank etc. they provide specific services or functions that we used.)
+#### **`functions.py`**
 
 # Recursion
-recursion.py
 For fun
+#### **`recursion.py`**
 
 # Class, Inheritance and Modules
-class_module.py
-using_class.py
-Demonstrates class, inheritance and how they are placed in the separate module and then used in another file.
 
+Demonstrates class, inheritance and how they are placed in the separate module and then used in another file.
+#### **`class_module.py`**
+#### **`using_class.py`**
