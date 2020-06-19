@@ -36,7 +36,13 @@ For fun
 #### **`recursion.py`**
 
 # Class, Inheritance and Modules
-
 Demonstrates class, inheritance and how they are placed in the separate module and then used in another file.
 #### **`class_module.py`**
 #### **`using_class.py`**
+
+# Files
+Demonstrates open file, write to it, close the file, open it again, read its contents and close it.
+#### **`file_usage.py`**
+
+
+
