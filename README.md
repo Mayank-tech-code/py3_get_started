@@ -1,5 +1,8 @@
 # Getting started with python 3 - A minimalistic guide
 # Default install location on windows 10
+#### **`C:\Users\<USER_NAME>\AppData\Local\Programs\Python\<PYTHON_VERSION>`**
+
+# Default pip location on windows 10 to be added to path environment variable
 #### **`C:\Users\<USER_NAME>\AppData\Local\Programs\Python\<PYTHON_VERSION>\Scripts`**
 
 # Hello World
