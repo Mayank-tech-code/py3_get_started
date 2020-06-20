@@ -9,3 +9,5 @@ while(True):
     else:
         print("Exit from the program")
         break
+
+print('program ended...')
