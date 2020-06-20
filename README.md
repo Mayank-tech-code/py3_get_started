@@ -96,6 +96,22 @@ Demonstrates open file, write to it, close the file, open it again, read its con
 file_usage.py
 ```
 
+# Relational database (postgres)
+
+```
+pip install psycopg2
+
+Create a database using pgadmin 4
+
+CREATE TABLE COLLEGE(
+   ID SERIAL PRIMARY KEY,
+   NAME VARCHAR(50) NOT NULL,
+   ADDRESS VARCHAR(50)
+);
+
+```
+
+
 # Linear Regression
 ```
 pip install pandas
