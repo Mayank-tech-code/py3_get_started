@@ -49,5 +49,12 @@ Demonstrates class, inheritance and how they are placed in the separate module a
 Demonstrates open file, write to it, close the file, open it again, read its contents and close it.
 #### **`file_usage.py`**
 
+# Linear Regression
+```
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+```
 
-
+Demonstrates pandas to read csv, scikit-learn for linear regression and matplotlib for visualization
+Credits: https://towardsdatascience.com/linear-regression-in-6-lines-of-python-5e1d0cd05b8d
