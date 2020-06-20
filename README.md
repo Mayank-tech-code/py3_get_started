@@ -47,6 +47,12 @@ Shows why loop (Used when the number of steps is not known in advance)
 ```
 while_loop.py
 ```
+Shows nested statements and indentation
+
+```
+nested_while.py
+```
+
 
 Shows for loop (Used when the number of steps is known in advance)
 ```
