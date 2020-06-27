@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
-data = pd.read_csv(r'data\data1.csv')
+data = pd.read_csv(r'F:\tutorial\ml\data\data1.csv')
 X = data.iloc[:, 0].values.reshape(-1, 1)
 Y = data.iloc[:, 1].values.reshape(-1, 1)
 linear_regressor = LinearRegression()

@@ -1,5 +1,3 @@
-import os
-
 output_file = open('output.txt','w')
 output_file.write('First Line\n')
 output_file.write('Second Line\n')
