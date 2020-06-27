@@ -66,9 +66,10 @@ lists.py
 ```
 
 # Dictionary
-Demonstrates the dictionary collection (e.g. think about a shopping mall that gives a token and keeps your bag)
+Demonstrates the dictionary collection (e.g. think about a shopping mall that gives a token and keeps your bag). Also demonstrates how to use object as a key.
 ```
 dictionary.py
+dictionary_object_as_key.py
 ```
 
 # Function
@@ -115,15 +116,32 @@ CREATE TABLE STUDENT(
    COLLEGE_ID int references COLLEGE(ID)
 );
 
+database.py
 ```
 
-
 # Linear Regression
+Demonstrates pandas to read csv, scikit-learn for linear regression and matplotlib for visualization
+Credits: https://towardsdatascience.com/linear-regression-in-6-lines-of-python-5e1d0cd05b8d
+
 ```
 pip install pandas
 pip install matplotlib
 pip install scikit-learn
+
+linear_regression.py
 ```
 
-Demonstrates pandas to read csv, scikit-learn for linear regression and matplotlib for visualization
-Credits: https://towardsdatascience.com/linear-regression-in-6-lines-of-python-5e1d0cd05b8d
+# Exception
+Demonstrates exception for divide by zero and opening of a non-existing file.
+```
+exception.py
+exception2.py
+```
+
+
+# Matchsticks game
+Demonstrates a simple turn based 21 matchsticks game. 
+
+```
+matchsticks.py
+```
