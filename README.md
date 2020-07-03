@@ -145,3 +145,8 @@ Demonstrates a simple turn based 21 matchsticks game.
 ```
 matchsticks.py
 ```
+# Simple Web Application
+
+```
+pip install flask
+```
