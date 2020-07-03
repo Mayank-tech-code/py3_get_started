@@ -1,5 +1,5 @@
-1. Understand the language in which requirement is given
-2. Translate the mother tongue
+1. Understand the language in which the requirement is given
+2. Translate to your mother tongue
 3. Remove the unecessary words from the requirement
 4. Map the requirement to the programming language features known
 5. Manually try the game on paper
